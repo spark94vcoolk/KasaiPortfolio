@@ -1,5 +1,5 @@
 # 葛西翔太 （Shota kasai）
-現在、職業訓練校にてプログラミングの勉強をしています。趣味は競馬と野球観戦です。
+
 ## 基本スキル
  Xcode:Swiftを用いたシミュレータの利用や、基本操作
  
@@ -8,7 +8,7 @@
  MySQL・phpMyAdminを用いたデータベースの活用
 ## 作品集
 ### お天気アプリ
-
+https://github.com/spark94vcoolk/ShcoolYumemi
 ### クイズアプリ
 
 ### おみくじアプリ
