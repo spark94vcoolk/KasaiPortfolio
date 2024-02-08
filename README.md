@@ -14,3 +14,4 @@ https://github.com/spark94vcoolk/PortfolioQuiz/blob/main/README.md
 ### おみくじアプリ
 
 ### BMI計算アプリ
+https://github.com/spark94vcoolk/BMICalculation/tree/main
