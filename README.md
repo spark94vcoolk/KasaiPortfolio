@@ -12,6 +12,6 @@ https://github.com/spark94vcoolk/ShcoolYumemi
 ### クイズアプリ
 https://github.com/spark94vcoolk/PortfolioQuiz/blob/main/README.md
 ### おみくじアプリ
-
+https://github.com/spark94vcoolk/omikujiPortfolio
 ### BMI計算アプリ
 https://github.com/spark94vcoolk/BMICalculation/tree/main
