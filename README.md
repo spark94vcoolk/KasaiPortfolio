@@ -1,4 +1,4 @@
-# 葛西翔太 （Shota kasai）
+# kasai
 
 ## 基本スキル
  Xcode:Swiftを用いたシミュレータの利用や、基本操作
