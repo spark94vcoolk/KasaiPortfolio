@@ -10,7 +10,7 @@
 ### お天気アプリ
 https://github.com/spark94vcoolk/ShcoolYumemi
 ### 犬の外部APIを用いた画像表示アプリ
-https://github.com/spark94vcoolk/DogViewApp
+https://github.com/spark94vcoolk/DogDisplay/blob/main/README.md
 ### クイズアプリ
 https://github.com/spark94vcoolk/PortfolioQuiz/blob/main/README.md
 ### おみくじアプリ
