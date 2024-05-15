@@ -7,7 +7,7 @@
  
  MySQL・phpMyAdminを用いたデータベースの活用
 ## 作品集
-### お天気アプリ
+### お天気表示アプリ
 https://github.com/spark94vcoolk/ShcoolYumemi
 ### オープンソースAPIを用いた画像表示アプリ
 https://github.com/spark94vcoolk/DogDisplay/blob/main/README.md
